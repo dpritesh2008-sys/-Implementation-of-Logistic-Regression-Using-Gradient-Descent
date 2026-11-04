@@ -1,8 +1,4 @@
 # EX06 Implementation of Logistic Regression Using Gradient-Descent
-~~~
-## Name : Ritesh DP
-## Reg. No. : 212225040339
-~~~
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
 
@@ -21,8 +17,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ## Program:
 ```
 Program to implement the the Logistic Regression Using Gradient Descent.
-Name : Mohamed Abdullah A
-RegisterNumber:  212224020029
+Name : Ritesh DP
+RegisterNumber:  212225040339
 ```
 ```python
 import pandas as pd
